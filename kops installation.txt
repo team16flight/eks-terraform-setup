@@ -1,8 +1,8 @@
 <<kops
-Landmark Technologies 
-Tel: +1 437 215 2483 
-mylandmarktech@gailcom 
-www.mylandmarktech.com 
+Acada Learning 
+Tel: +1 587 574 2233 
+info@acadalearning.com 
+www.acadalearning.com 
 kops
 Setup Kubernetes (K8s) Cluster on AWS Using KOPS
 
