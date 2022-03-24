@@ -1,9 +1,9 @@
-#  **<span style="color:green">Landmark Technologies, Ontario, Canada.</span>**
-### **<span style="color:green">Contacts: +1437 215 2483<br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com**
-# Landmark Technologies,  -    Landmark Technologies 
-# Tel: +1 437 215 2483,   -     +1 437 215 2483 
-#    www.mylandmarktech.com 
+#  **<span style="color:green">Acada Learning, Calgary, Canada.</span>**
+### **<span style="color:green">Contacts: +1 587 574 2233<br> WebSite : <http://acadalearning.com/></span>**
+### **Email: info@acadalearning.com**
+# ACADA Learning,  -    ACADA Learning 
+# Tel: +1 587 574 2233,   
+#    www.acadalearning.com 
 # Terraform Installation And Setup In AWS EC2 Linux Instances
 #  Using Terraform to provision a fully managed Amazon EKS Cluster
 
