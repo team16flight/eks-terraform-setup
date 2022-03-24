@@ -1,7 +1,7 @@
 #  **<span style="color:green">Acada Learning, Calgary, Canada.</span>**
 ### **<span style="color:green">Contacts: +1 587 574 2233<br> WebSite : <http://acadalearning.com/></span>**
 ### **Email: info@acadalearning.com**
-# ACADA Learning,  -    ACADA Learning 
+# ACADA Learning,  
 # Tel: +1 587 574 2233,   
 #    www.acadalearning.com 
 # Terraform Installation And Setup In AWS EC2 Linux Instances
@@ -24,7 +24,7 @@ $ sudo echo "eksadmin  ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/eksadmi
 $ sudo su - eksadmin
 ```
 ``` sh
-$ git clone https://github.com/mylandmarktechs/eks-terraform-setup
+$ git clone https://github.com/team16flight/eks-terraform-setup.git
 $ cd eks-terraform-setup
 # install terraform using a bash shell script
 $ sh terraform-install.sh
@@ -38,8 +38,7 @@ $ vi .bashrc
    export PATH="$PATH:/usr/local/bin"
 # Source .bashrc to reflect for current session
 $ source ~/.bashrc  
-# run the scripts https://github.com/mylandmarktechs/eks-terraform-setup/blob/main/terraform-install.sh
-
+# run the scripts https://github.com/team16flight/eks-terraform-setup/blob/main/terraform-install.sh
 $ sudo yum install wget unzip -y
 $ wget https://releases.hashicorp.com/terraform/0.12.26/terraform_0.12.26_linux_amd64.zip
 $ sudo unzip terraform_0.12.26_linux_amd64.zip -d /usr/local/bin/
@@ -50,11 +49,11 @@ $ vi .bashrc
    export PATH="$PATH:/usr/local/bin"
 # Source .bashrc to reflect for current session
 $ source ~/.bashrc  
-# run the scripts https://github.com/mylandmarktechs/eks-terraform-setup/blob/main/terraform-install.sh
+# run the scripts https://github.com/team16flight/eks-terraform-setup/blob/main/terraform-install.sh
 ```
 #### Clone terraform scripts
 ``` sh
-$ git clone https://github.com/mylandmarktechs/eks-terraform-setup
+$ git clone https://github.com/team16flight/eks-terraform-setup
 $ cd eks-terraform-setup
 ```
 #### <span style="color:orange">Update Your Key Name in variables.tf file before executing terraform script.</span>
